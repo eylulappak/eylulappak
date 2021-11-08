@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eylulappak, I'm a junior in Software Engineering. I mostly program using Java, C or C++. I also have experience with MySQL.
+- 👋 Hi, I’m @eylulappak, I'm a junior in Software Engineering. I mostly program using Java, C or C++. I also have some experience with SQL.
 - 📫 How to reach me: 
 - eylulappak01@gmail.com
 - https://www.linkedin.com/in/eylulappak/
