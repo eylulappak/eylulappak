@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eylulappak, I'm a senior Software Engineering student. I'm currently improving myself in machine learning and data analysis.
+- 👋 Hi, I’m @eylulappak, I'm a Master's student in AI & Machine Learning. 
 - 📫 How to reach me: 
 - eylulappak01@gmail.com
 - https://www.linkedin.com/in/eylulappak/
